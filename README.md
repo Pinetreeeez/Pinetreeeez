@@ -13,6 +13,6 @@ I am an uni student that is studying and learning how to code, i'm still not tha
 
 ### wow
 
-[![Pilmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilmato&theme=chartreuse-dark&show_icons=true)](https://github.com/Pilmato/Pilmato)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilmato)](https://github.com/anuraghazra/github-readme-stats)
 
 #

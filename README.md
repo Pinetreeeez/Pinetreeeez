@@ -12,6 +12,6 @@ I am an uni student that is studying and learning how to code, i'm still not tha
                              
 #         
 
-[![Pilmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilmato&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Pilmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pilmato&show_icons=true&theme=chartreuse_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #

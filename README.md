@@ -1,4 +1,4 @@
-# 𒅌 Pilmato
+# 𒅌 Pinetreezo
 
 I am an uni student that is studying and learning how to code, i'm still not that far advanced but i will get there someday.
 
